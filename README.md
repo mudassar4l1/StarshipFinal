@@ -1,3 +1,5 @@
+Syntax highlighted code block
+
 # StarshipFinal
  FinalVersion
  # Header 1
